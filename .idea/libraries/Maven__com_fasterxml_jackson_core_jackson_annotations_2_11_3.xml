@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.11.3">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.11.3/jackson-annotations-2.11.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.11.3/jackson-annotations-2.11.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.11.3/jackson-annotations-2.11.3-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/.mvn/wrapper" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/TelegramBots-5.3.0/.mvn/wrapper" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/TelegramBots-5.3.0/telegrambots-abilities/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/TelegramBots-5.3.0/telegrambots-abilities/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/TelegramBots-5.3.0/telegrambots-chat-session-bot/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/TelegramBots-5.3.0/telegrambots-extensions/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/TelegramBots-5.3.0/telegrambots-extensions/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/TelegramBots-5.3.0/telegrambots-meta/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/TelegramBots-5.3.0/telegrambots-meta/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/TelegramBots-5.3.0/telegrambots-spring-boot-starter/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/TelegramBots-5.3.0/telegrambots-spring-boot-starter/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/TelegramBots-5.3.0/telegrambots/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/TelegramBots-5.3.0/telegrambots/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/telegrambots-abilities/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/telegrambots-abilities/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/telegrambots-chat-session-bot/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/telegrambots-extensions/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/telegrambots-extensions/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/telegrambots-meta/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/telegrambots-meta/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/telegrambots-spring-boot-starter/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/telegrambots-spring-boot-starter/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/telegrambots/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../TelegramBots-5.3.0/telegrambots/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
